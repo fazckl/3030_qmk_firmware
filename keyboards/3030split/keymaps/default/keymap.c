@@ -99,6 +99,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         _______, _______, _______, _______, _______,  _______, UM(EURO),      UC_WINC, UC_LINX, _______,  _______, _______, _______, QK_BOOT,        
         KC_PIPE, KC_LABK, KC_LBRC, KC_LPRN, KC_LCBR,  KC_PGUP, KC_PGDN,       _______, _______, KC_RCBR, KC_RPRN, KC_RBRC, KC_RABK,  KC_AMPR,      
         KC_5,    KC_4,    KC_3,    KC_2,    KC_1,     _______, _______,       _______, _______, KC_0,    KC_6,    KC_7,    KC_8,     KC_9,      
-        KC_CIRC, KC_DQUO, KC_ASTR, KC_SLSH, KC_PLUS,  _______, KC_DLR,       _______, _______, KC_MINS, KC_BSLS, KC_PERC, KC_TILD,  KC_AT
+        KC_CIRC, KC_DQUO, KC_ASTR, KC_SLSH, KC_PLUS,  _______, KC_DLR,        _______, _______, KC_MINS, KC_BSLS, KC_PERC, KC_TILD,  KC_AT
      )
 };
